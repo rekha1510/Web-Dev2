@@ -26,10 +26,12 @@
     width: 25%;
     height: fit-content;
 }
+
 .main-container {
    
     width: 75%;
     height: 53vh;
+   
 }
 .nav-header {
     background-color: black;
